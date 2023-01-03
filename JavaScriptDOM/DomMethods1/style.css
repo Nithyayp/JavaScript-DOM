@@ -1,0 +1,20 @@
+*{
+    background-color: #efefef;
+}
+#mainSection{
+    display: flex;
+    width: 1000px;
+    gap: 20px;
+    margin: 20px auto;
+}
+
+.course-image{
+    width: 100%;
+    height: 200px;
+}
+
+.container{
+    flex-basis: 30%;
+    background-color: #fff;
+    height: 300px;
+}

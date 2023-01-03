@@ -1,0 +1,23 @@
+body{
+    background-color:#eee;
+}
+
+/* article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    background-color: red;
+    color: white;
+} */
+input{
+    width: 300px;
+    height: 30px;
+}

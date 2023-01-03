@@ -1,0 +1,20 @@
+table{
+    width: 85%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #efefef;
+}
+
+th,tr,td{
+    border:1px solid #111;
+    width: auto;
+}
+.delete{
+    float: right;
+    background-color: red;
+    color: white;
+    padding: 3px 12px;
+    border-radius: 2px;
+    border-bottom: 2px solid darkred;
+    cursor: pointer;
+}

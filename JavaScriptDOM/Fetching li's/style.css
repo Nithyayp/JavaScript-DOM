@@ -1,0 +1,11 @@
+#mainSection{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 1000px;
+}
+.container{
+    width: 200px;
+    height: 300px;
+    
+}
